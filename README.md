@@ -1,1 +1,0 @@
-# knowing_app
